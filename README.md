@@ -1,7 +1,7 @@
 # Michael and Tammy's Cruzan Flavored Rum List
 ---
 ## Bottle Owned
-- [ ]  Mango Rum
+- [ ]  Mango
 
 ---
 ## Not Purchased
