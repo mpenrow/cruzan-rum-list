@@ -1,24 +1,25 @@
 # Michael and Tammy's Cruzan Flavored Rum List
 ---
 ## Bottle Owned
-- [x]  Mango
+- [x]  Black Cherry
+- [x]  Passion Fruit
+- [x]  Blueberry Lemonade
+- [x]  Watermelon (limited edition)
 
 ---
 ## Not Purchased
 - Banana
-- Black Cherry
-- Blueberry Lemonade
 - Citrus
 - Coconut
 - Guava
 - Key Lime
-- Passion Fruit
 - Peach
 - Pineapple
 - Raspberry
-- Strawberry
 - Tropical Fruit
 - Vanilla
 
 ---
 ## Finished Drinking
+- [x] Mango
+- [x] Strawberry
